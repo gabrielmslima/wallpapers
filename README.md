@@ -25,6 +25,3 @@ To download the wallpapers to your local machine, follow these steps:
 
 ## Contributing
 Contributions are welcome! If you have wallpapers that you'd like to add, please fork the repository and submit a pull request with your additions. Ensure that the images are of high quality and appropriate resolution for desktop backgrounds.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
