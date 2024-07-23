@@ -1,6 +1,6 @@
 # Wallpapers
 
-This repository hosts a collection of wallpapers for desktop use. You can view and download the wallpapers from the [wallpaper gallery](https://gabrielmslima.pythonanywhere.com/wallpapers).
+This repository hosts a collection of wallpapers for desktop use. You can view and download the wallpapers from the [wallpaper gallery](https://gabrielmslima.pythonanywhere.com/wallpapers) that i made, code on this [repo](https://github.com/gabrielmslima/wallpaper-app).
 
 ## Table of Contents
 - [Installation](#installation)
